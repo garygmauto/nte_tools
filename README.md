@@ -14,6 +14,9 @@
 <br>效率：1小时138药片
 <br>**需要手柄驱动**
 
+* **异环999夜**
+<br>效率：1分钟2000纽扣
+<br>**需要手柄驱动**
 
 # NTE (Neverness to Everness) Automation Tools
 
@@ -30,3 +33,7 @@
 * **Automated Background AFK Script for the Fighting Club**
 <br>Efficiency: 138 pills per hour.
 <br>**Requires controller drivers.**
+
+* **NTE 999 Nights**
+<br>Efficiency: 2,000 buttons per minute
+<br>**Requires controller driver**
